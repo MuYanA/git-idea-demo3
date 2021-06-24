@@ -7,6 +7,7 @@ public class Test {
         System.out.println("main test");
         System.out.println("Diy-branch tet");
         System.out.println("Diy-branch tet1");
+        System.out.println("test pull");
     }
 
 }
