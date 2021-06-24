@@ -6,6 +6,7 @@ public class Test {
         System.out.println("Git Diy-branch");
         System.out.println("main test");
         System.out.println("Diy-branch tet");
+        System.out.println("Diy-branch tet1");
     }
 
 }
