@@ -10,6 +10,7 @@ public class Test {
         System.out.println("test pull");
         System.out.println("test gitee");
         System.out.println("test gitee");
+        System.out.println("test gitee");
     }
 
 }
